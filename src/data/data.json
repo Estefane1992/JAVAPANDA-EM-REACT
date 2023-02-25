@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "title": "JAVAPANDA",
+    "paragraph": "NOSSA MISSÃO É DESENVOLVER O MELHOR SITE PARA A SUA EMPRESA!"
+  },
+  "About": {
+    "paragraph": "Somos uma empresa que projeta e desenvolve sites profissionais com design moderno que possa ser acessível a todos os tipos de dispositivos"
+   
+  },
+  
+  "Services": [
+    {
+      "imagem": "img/servicos/site.png",
+      "name": "SITES INSTITUCIONAIS"
+      
+    },
+    {
+      "imagem": "img/servicos/E-Commerce.png",
+      "name": "E-COMMERCE"
+      
+    },
+    {
+      "imagem": "img/servicos/blog.png",
+      "name": "CRIAÇÃO DE BLOG"
+      
+    },
+    {
+      "imagem": "img/servicos/manutencao-na-web.png",
+      "name": "ATUALIZAÇÃO DE SITES"
+      
+    },
+    {
+      "imagem": "img/servicos/mobile-friendly.png",
+      "name": "SITES RESPONSIVOS"
+      
+    },
+    {
+      "imagem": "img/servicos/aplicativo-movel.png",
+      "name": "DESENVOLVIMENTO DE APLICATIVOS MOBILE"
+      
+    }
+  ],
+
+  "Contact": {
+    "phone": "+55 71 993763244",
+    "email": "javapanda22@gmail.com",
+    "instagram": "https://www.instagram.com/javapandaoficial/",
+    "linkedin": "https://www.linkedin.com/in/java-panda-bbb975255/"
+  }
+  
+}
